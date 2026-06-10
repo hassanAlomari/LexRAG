@@ -1,6 +1,5 @@
 # LexRAG
-Enterprise Legal Assistant using Hierarchical Parent-Child Retrieval-Augmented Generation
-### Enterprise Legal Assistant using Hierarchical Parent-Child Retrieval-Augmented Generation (RAG)
+### Enterprise Legal Assistant using Hierarchical Parent-Child Retrieval-Augmented Generation(RAG)
 
 An enterprise-grade Legal AI Assistant designed for university student affairs regulations.
 
